@@ -1,0 +1,113 @@
+body{
+  background: #A7C7E7;
+}
+
+
+
+img{
+  height: 100px;
+  width: 100px;
+}
+
+h1{
+    text-align: center;
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+    font-size: 50px;
+    font-style: normal; font-variant: normal;
+    font-weight: 400;
+    line-height: 100px;
+
+
+}
+
+
+.floatLeft{
+  float: left;
+}
+
+.floatRight{
+  float: right;
+}
+
+.linktree{
+  height: 400px;
+  width: 275px;
+  border: 2px solid pink;
+  margin: auto;
+  position: absolute;
+  bottom:0px;
+  left: 30px;
+  background-color: pink;
+  margin: : 5px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+  padding: 5px;
+}
+
+
+.resources{
+  height: 400px;
+  width: 275px;
+  border: 2px solid pink;
+  margin: auto;
+  position: absolute;
+  bottom:0px;
+  right: 30px;
+  background-color: pink;
+  margin: : 5px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+  padding: 5px;
+
+}
+
+.pages{
+  height: 400px;
+  width: 275px;
+  border: 2px solid pink;
+  margin: auto;
+  position: absolute;
+  bottom:0px;
+  right: 350;
+  background-color: pink;
+  margin: : 5px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+  padding: 5px;
+
+}
+
+p{
+  text-align: center;
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 14px;
+}
+
+ul{
+  margin:0;
+  padding:0 0 0 24px;
+}
+
+ li{
+  text-align: center;
+  list-style-image: url("heart.jpg");
+  list-style: none;
+  padding: 5px 5px;
+  background-image: url("heart.jpg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px;
+  margin:5px 0;
+
+}
+
+.l-text, .p-text, .r-text{
+  font-size: 20px;
+  text-align: center;
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+  font-style: normal; font-variant: normal;
+  font-weight: 400;
+  line-height: 50px;
+}
